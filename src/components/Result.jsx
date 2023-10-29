@@ -8,6 +8,7 @@ function Result({ resultInput }) {
     resultData[0].interest -
     resultData[0].annualInvestment;
 
+    
   return (
     <table id="result">
       <thead>
